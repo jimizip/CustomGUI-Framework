@@ -1,0 +1,41 @@
+# Visual Studio 빌드 파일
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Visual Studio 디렉토리
+Debug/
+Release/
+x64/
+.vs/
+
+# Visual Studio 사용자 설정
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+
+# 임시 파일
+*.tmp
+*~
+
+# Windows 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 기타 IDE 파일
+.vscode/
+*.swp
+*.swo
+
+# 패키지 관리자
+packages/
